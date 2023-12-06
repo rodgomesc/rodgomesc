@@ -42,3 +42,4 @@ This is the place where I opensource stuff and break things 🤣
 [linkedin]: https://linkedin.com/in/rodgomesc
 [github]: https://github.com/rodgomesc
 
+![Metrics](https://metrics.lecoq.io/rodgomesc?template=classic&isocalendar=1&followup=1&notable=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&notable=false&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FAraguaina&config.octicon=true)
