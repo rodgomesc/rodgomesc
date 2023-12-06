@@ -6,7 +6,7 @@
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working with gamersafer to scale safety and fair play 💜
-- ☄️ Passionate about mobile development and experimenting low level implementations on it using jsi, c++ and machine learning
+- ☄️ Passionate about mobile development and experimenting low level implementations on it using `jsi`, `c++` and machine learning
 - 💬 Ask me anything [here](https://github.com/rodgomesc/rodgomesc/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript</b>
 - 📫 How to reach me: [@rodgomesc][linkedin] or say 👋 on Email at [rodgomesc@gmail.com](mailto:rodgomesc@gmail.com)
 
