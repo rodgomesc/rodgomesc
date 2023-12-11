@@ -27,7 +27,7 @@ jobs:
           # Options
           user: rodgomesc
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ''
           config_octicon: yes
           config_timezone: America/Araguaina
           plugin_activity: yes
