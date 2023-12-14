@@ -15,3 +15,5 @@ jobs:
         with:
           API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          LANG_COUNT: 7
+          IGNORED_LANGUAGES: YAML JSON TOML
