@@ -9,9 +9,11 @@ This is the place where I opensource stuff and break things 🤣
 
 <br/>
 
+<!-- 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+-->
 
 </br>
 
