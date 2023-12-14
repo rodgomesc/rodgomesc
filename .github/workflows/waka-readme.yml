@@ -11,9 +11,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@master
         with:
           API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 7
           IGNORED_LANGUAGES: YAML JSON TOML
+          SHOW_SHORT_INFO: "True"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
