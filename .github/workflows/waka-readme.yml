@@ -13,6 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LANG_COUNT: 7
           IGNORED_LANGUAGES: YAML JSON TOML
           SHOW_SHORT_INFO: "True"
