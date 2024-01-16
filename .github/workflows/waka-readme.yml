@@ -1,11 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    # each hour
-    - cron: "0 * * * *"
-
+    # Runs at 12am IST
+    - cron: '0 * * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -13,7 +12,6 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 7
           IGNORED_LANGUAGES: YAML JSON TOML
