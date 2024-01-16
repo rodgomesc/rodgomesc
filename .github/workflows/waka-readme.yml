@@ -19,3 +19,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TOTAL_CODE_TIME: "True"
+          TIME_RANGE: all_time
