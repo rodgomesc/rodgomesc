@@ -17,6 +17,9 @@ This is the place where I opensource stuff and break things 🤣
 
 </br>
 
+### My Programming Metrics Since January 2, 2024 
+
+
 <!--START_SECTION:waka-->
 
 ```txt
