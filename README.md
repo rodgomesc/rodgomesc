@@ -35,3 +35,5 @@ Kotlin                     42 hrs 20 mins  ▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[linkedin]: http://linkedin.com/in/rodgomesc/
