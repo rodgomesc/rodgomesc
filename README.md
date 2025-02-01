@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things 🤣
 - playing with RAG and generative AI
 - ☄️ Passionate about mobile development and experimenting low level implementations on it using `jsi`, `c++` and machine learning
 - 💬 Ask me anything [here](https://github.com/rodgomesc/rodgomesc/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript</b>
-- 📫 How to reach me: [@rodgomesc][linkedin] or say 👋 on Email at [rodgomesc@gmail.com](mailto:rodgomesc@gmail.com)
+- 📫 How to reach me: [@rodgomesc](http://linkedin.com/in/rodgomesc/) or say 👋 on Email at [rodgomesc@gmail.com](mailto:rodgomesc@gmail.com)
 
 
 <br/>
